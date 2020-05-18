@@ -1,2 +1,0 @@
-# TrunkCaseparagraphUseMapSubstring
-Created with CodeSandbox
